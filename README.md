@@ -1,75 +1,43 @@
 # Edmundo López Jaramillo
 
-**Mechatronics & Software Engineer · EGZ Engineering Integration & Automation**
+### Mechatronics & Software Engineer
+**EGZ Engineering Integration & Automation · Querétaro, Mexico**
 
-I develop software and integrated hardware systems, from requirements and architecture through prototyping, integration, troubleshooting, and validation. My work spans mobile applications, data workflows, embedded systems, robotics, and industrial automation.
+I design and develop software and integrated hardware systems, from requirements and architecture to prototyping, deployment, troubleshooting, and validation. My work connects mobile applications, data workflows, embedded systems, robotics, and industrial automation.
 
-## Applications and product development
+**Open to fully remote engineering roles and international collaboration.** Native Spanish · C1 English · Selected on-site opportunities.
 
-The following summaries describe proprietary development projects. Their current scope is based on a review of the supplied project files. Product demonstrations, pilot scope, customization, and commercial licensing can be discussed directly. Release readiness and deployment requirements are assessed for each engagement.
+[Project catalog](https://github.com/Ecni007-bit/Ecni007-bit/blob/main/PROJECTS.md) · [LinkedIn / Contact](https://www.linkedin.com/in/edmundo-l%C3%B3pez-jaramillo-0b207b145/)
 
-### EGZ Quest School
+## Selected work
 
-A Flutter and Dart prototype for school learning workflows, with teacher and student screens. The project includes learning materials, custom activities, student submissions, teacher grading and feedback, a fraction practice mission, and a dashboard with teaching suggestions derived from activity data.
+| Project | What I developed | Technology / stage |
+| --- | --- | --- |
+| [EGZ Quest School](https://github.com/Ecni007-bit/Ecni007-bit/blob/main/PROJECTS.md#egz-quest-school) | Teacher and student workflows, activities, submissions, grading, and rule-based teaching suggestions | Flutter / Dart · Local prototype |
+| [EGZ MindTrainer](https://github.com/Ecni007-bit/Ecni007-bit/blob/main/PROJECTS.md#egz-mindtrainer) | Quiz practice, guided study, gamification, and locally persisted learner progress | Swift / SwiftUI · In development |
+| [ScienSim](https://github.com/Ecni007-bit/Ecni007-bit/blob/main/PROJECTS.md#sciensim) | Interactive linear-motion learning with configurable inputs, calculation, and animation | Swift / SwiftUI · Prototype |
+| [RocketMath Trainer](https://github.com/Ecni007-bit/rocketmath-trainer-showcase) | Timed practice, answer checking, scoring, and guided science exercises | SwiftUI / Combine / AVFoundation · Prototype |
+| [EGZ Robot Firmador](https://github.com/Ecni007-bit/EGZ-ROBOT-FIRMADOR) | Actuator characterization, ESP32-S3 bench integration, and homing-signal investigation | Embedded systems · Experimental validation |
+| [Data analysis automation](https://github.com/Ecni007-bit/Ecni007-bit/blob/main/PROJECTS.md#custom-disciplinary-data-analysis) | Custom software applying established disciplinary analysis rules | 90% less analysis time in my applied workflow |
 
-**Engineering contribution.** Role-specific interfaces, structured application models, local persistence, and connected assignment, submission, and review workflows.
+The catalog also includes **appscience**, an early SwiftUI physics interaction study. Each case explains my engineering contribution, implemented scope, and current maturity.
 
-**Potential application.** School pilots and customized classroom workflow tools.
+## Engineering capabilities
 
-**Current stage.** Local demonstration prototype. Teaching suggestions use rules. Shared multi-user deployment and production validation are further development work.
+- **Software:** Python, C/C++, Swift/SwiftUI, Flutter/Dart, web and mobile development, games, and AI-enabled applications.
+- **Data and operations:** custom data-management systems, inventory and warehouse workflows, reporting, and process automation.
+- **Embedded systems and robotics:** ESP32, Raspberry Pi, Linux, sensors, actuators, and robots developed from initial concept through hardware-software integration.
+- **Industrial integration:** PLC/HMI automation, industrial communications, electronics, and CAD/CAM.
+- **Delivery:** requirements, system architecture, dependency management, deployment, logs, troubleshooting, technical documentation, and repeatable testing.
 
-### EGZ MindTrainer
+My earlier experience in industrial maintenance, production support, quality systems, technical support, and education helps me translate operational needs into practical engineering solutions.
 
-A native SwiftUI learning project that connects subject and difficulty selection with quiz practice and guided study. It includes learner progress tracking, experience points, streaks, accuracy, and avatar presentation.
+## Work with me
 
-**Engineering contribution.** Swift application state, reusable interface components, local progress persistence, content organization, and gamified learning flows.
+**Engineering teams:** I am interested in remote software, mobile, embedded, IoT, automation, and systems-integration roles.
 
-**Potential application.** Guided practice and customized learning experiences for schools and tutoring programs.
+**Schools and industry:** Contact me to discuss custom development, paid pilots, product demonstrations, or commercial licensing. Scope, delivery, support, and pricing are agreed per project.
 
-**Current stage.** Development project reviewed at source level. Device testing and release validation remain part of product preparation.
+[Discuss an opportunity on LinkedIn](https://www.linkedin.com/in/edmundo-l%C3%B3pez-jaramillo-0b207b145/)
 
-### ScienSim
-
-A SwiftUI educational simulation prototype. Its linear-motion module combines configurable inputs, a calculated result, animated visualization, and explanatory text. The project also contains physics and mathematics modules at varying stages of development.
-
-**Engineering contribution.** Translating scientific concepts into interactive interfaces, user-controlled parameters, visual feedback, and subject-based navigation.
-
-**Potential application.** Classroom demonstrations and customized interactive science lessons.
-
-**Current stage.** Prototype. Chemistry and biology sections are planned placeholders. Scientific accuracy and device behavior require validation before classroom deployment.
-
-### appscience
-
-An early SwiftUI physics demonstration with a slider-controlled visual representation of Newton's third law.
-
-**Engineering contribution.** Reactive interface state, parameter controls, and visual explanation of a physical concept.
-
-**Potential application.** A starting point for tailored physics teaching demonstrations.
-
-**Current stage.** Early proof of concept. The supplied package references additional screens that require completion or integration.
-
-### RocketMath Trainer
-
-Native iOS learning prototype using SwiftUI, Swift, Combine, and AVFoundation, with timed practice, answer checking, scoring, and guided science exercises.
-
-[Read the RocketMath Trainer case study](https://github.com/Ecni007-bit/rocketmath-trainer-showcase)
-
-## Engineering and automation
-
-**EGZ Robot Firmador.** Reverse engineering of a three-axis drawing robot, actuator characterization, ESP32-S3 bench integration, and investigation of homing signals. The public documentation records measured observations and pending validation.
-
-[Explore the robot project](https://github.com/Ecni007-bit/EGZ-ROBOT-FIRMADOR)
-
-**Disciplinary data analysis software.** I designed and developed custom software around established analysis rules, reducing analysis time by 90% in the workflow where it was used.
-
-My broader practice includes data management, inventory and warehouse software, web and mobile development, games, AI-enabled applications, and technical support. I integrate Python, C/C++, embedded Linux, ESP32, Raspberry Pi, and PLC/HMI systems, with attention to dependencies, deployment, troubleshooting, documentation, and repeatable testing.
-
-## Commercial enquiries and remote work
-
-I welcome enquiries from schools and companies about product demonstrations, paid pilots, licensing, and custom development. Scope, delivery, support, and pricing are agreed for each project.
-
-I am also interested in fully remote software development and engineering roles involving Swift/SwiftUI, Flutter/Dart, Python, embedded software, or systems integration. Based in Querétaro, Mexico, with native Spanish and C1 English proficiency. Open to international collaboration and selected on-site opportunities.
-
-My commercial applications are proprietary. Public portfolio material describes product capabilities and engineering contributions. Source code, proprietary content, and internal implementation remain privately maintained.
-
-[Contact Edmundo on LinkedIn for product enquiries or employment opportunities](https://www.linkedin.com/in/edmundo-l%C3%B3pez-jaramillo-0b207b145/)
+My commercial applications are proprietary. This portfolio presents capabilities and engineering case studies; source code, internal implementation, and proprietary product content remain privately maintained.
